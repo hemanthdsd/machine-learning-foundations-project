@@ -43,11 +43,7 @@ The project includes the following key components:
    ```bash
    git clone https://github.com/your-username/machine-learning-foundations-project.git
    ```
-2. **Install Dependencies**:
-   Install all required packages by running:
-   ```bash
-   pip install -r requirement.txt
-   ```
+
 3. **Run the Notebook**:
    Open and run the Jupyter notebook:
    ```bash
